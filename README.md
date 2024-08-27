@@ -75,7 +75,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 
 - Full Stack Developer <br/>
   NQ7 Group <br/>
-  10/2022 - Present <br/>
+  10/2022 - 02-2024 <br/>
   NQ7 Technologies is a company founded in Yemen in 2021, specialized in
   web designs, mobile application development, and design of differing
   sizes for individuals, companies, banks, and governments.
