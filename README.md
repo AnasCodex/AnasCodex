@@ -18,7 +18,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anascodex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anascodex)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anascodex)
-[![x](https://img.shields.io/badge/x-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/anascodex)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/anascodex)
 
 # 💻 Tech Stack:
 
