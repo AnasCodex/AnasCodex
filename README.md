@@ -32,6 +32,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![React](https://img.shields.io/badge/React.js-%231877F2.svg?logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000.svg?logo=Next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?logo=three.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?logo=NPM&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-%2321759b.svg?logo=Wordpress&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D.svg?logo=MongoDB&logoColor=white)
