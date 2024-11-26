@@ -7,10 +7,7 @@
 
 # 💫 About Me:
 
-As a Front End Developer with over 3 years of experience, I have a strong background in creating user-friendly
-and visually appealing websites and applications. I have experience in collaborating with
-designers and back-end developers to create responsive designs and ensure cross-browser
-compatibility. In addition, I am a quick learner and self-starter.
+As a Front-End Developer with over 3 years of experience, I specialize in building user-friendly, visually appealing websites and web applications. My expertise includes creating responsive designs, ensuring cross-browser compatibility, and collaborating closely with designers and back-end developers to deliver seamless user experiences. I am skilled in modern front-end technologies such as React.js, HTML, CSS, and JavaScript, and am always eager to learn and adapt to new tools and frameworks to stay on top of industry trends.
 
 # 🌐 Socials:
 
