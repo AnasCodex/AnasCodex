@@ -7,7 +7,14 @@
 
 # 💫 About Me:
 
-As a Front-End Developer with over 3 years of experience, I specialize in building user-friendly, visually appealing websites and web applications. My expertise includes creating responsive designs, ensuring cross-browser compatibility, and collaborating closely with designers and back-end developers to deliver seamless user experiences. I am skilled in modern front-end technologies such as React.js, HTML, CSS, and JavaScript, and am always eager to learn and adapt to new tools and frameworks to stay on top of industry trends.
+I'm a **Front-End Developer** with over **4 years of experience** in building fast, responsive, and scalable web applications. I specialize in working with **React.js**, **Next.js**, **JavaScript**, and modern frameworks like **Tailwind CSS**, crafting clean interfaces and seamless user experiences.
+
+Throughout my career, I’ve collaborated with design and backend teams to deliver projects across various sectors including e-commerce, business platforms, and instant messaging applications.
+
+I'm passionate about writing clean code, solving real-world problems, and continuously learning new technologies to stay ahead in the ever-evolving web development landscape.
+
+🚀 Currently open to freelance opportunities and exciting collaborations.
+
 
 # 🌐 Socials:
 
@@ -44,29 +51,16 @@ As a Front-End Developer with over 3 years of experience, I specialize in buildi
 
 # 📜 Licenses & Certifications:
 
-- HTML <br/>
-  https://www.sololearn.com/certificates/CT-L7ZIUXKL
 
-- CSS <br/>
-  https://www.sololearn.com/certificates/CT-T6C3WQFC
+- [HTML – SoloLearn](https://www.sololearn.com/certificates/CT-L7ZIUXKL)
+- [CSS – SoloLearn](https://www.sololearn.com/certificates/CT-T6C3WQFC)
+- [JavaScript – SoloLearn](https://www.sololearn.com/certificates/CT-BUHMDKVK)
+- [Responsive Web Design – SoloLearn](https://www.sololearn.com/certificates/CT-RV66AGCH)
+- [PHP – SoloLearn](https://www.sololearn.com/certificates/CT-GK9PYJNY)
+- [React.js – MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1)
+- [React + Redux – SoloLearn](https://www.sololearn.com/certificates/CT-AHRD4LMH)
+- [Freelancing Basics – MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1788&code=MObdNKCdsB&qrcode=1)
 
-- JavaScript <br/>
-  https://www.sololearn.com/certificates/CT-BUHMDKVK
-
-- Responsive Web Design <br/>
-  https://www.sololearn.com/certificates/CT-RV66AGCH
-
-- PHP <br/>
-  https://www.sololearn.com/certificates/CT-GK9PYJNY
-
-- React.js <br/>
-  https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1
-
-- React + Redux <br/>
-  https://www.sololearn.com/certificates/CT-AHRD4LMH
-
-- Freelancing Basics <br/>
-  https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1788&code=MObdNKCdsB&qrcode=1
 
 # 💼 Work Experience:
 
