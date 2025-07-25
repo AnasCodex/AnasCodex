@@ -67,6 +67,17 @@ I'm passionate about writing clean code, solving real-world problems, and contin
 > 🧠 Worked with multiple teams across Yemen and remotely, contributing to full projects from planning to deployment.  
 > Here's a summary of my professional journey:
 
+- **Full Stack Developer – ATEQANIA**  
+  *Mar 2025 – Present* (Part-time) · *Remote – China*  
+  ATEQANIA specializes in **website and app development**, branding, UI design, and **digital marketing services**.  
+  My work includes building full-stack solutions using **Next.js**, **React**, and **Laravel**, and delivering optimized performance for clients in Asia and the MENA region.
+
+- **Next.js Developer – Jeetroom**  
+  *Apr 2024 – Oct 2024* (Part-time) · *Remote – Saudi Arabia*  
+  Jeetroom is a platform focused on **short-term and last-minute accommodation bookings** across Saudi Arabia.  
+  My role included developing dynamic front-end components using **Next.js**, optimizing booking flows, and ensuring smooth mobile-first experiences.
+
+
 - **Full Stack Developer – NQ7 Group**  
   *10/2022 – 02/2024*  
   Developed web apps and mobile-ready platforms for individuals, companies, and government agencies.
