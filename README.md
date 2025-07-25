@@ -64,8 +64,6 @@ I'm passionate about writing clean code, solving real-world problems, and contin
 
 # 💼 Work Experience:
 
-*(ممتاز جدًا، فقط تم تحسين صياغة البداية لتكون أكثر مهنية)*
-
 > 🧠 Worked with multiple teams across Yemen and remotely, contributing to full projects from planning to deployment.  
 > Here's a summary of my professional journey:
 
