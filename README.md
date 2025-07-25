@@ -64,50 +64,38 @@ I'm passionate about writing clean code, solving real-world problems, and contin
 
 # 💼 Work Experience:
 
-- Full Stack Developer <br/>
-  NQ7 Group <br/>
-  10/2022 - 02-2024 <br/>
-  NQ7 Technologies is a company founded in Yemen in 2021, specialized in
-  web designs, mobile application development, and design of differing
-  sizes for individuals, companies, banks, and governments.
-  Determining the structure and design of web pages.<br/>
+*(ممتاز جدًا، فقط تم تحسين صياغة البداية لتكون أكثر مهنية)*
 
-- Senior Frontend Developer <br/>
-  Unicom Group
-  11/2022 - 02/2023 <br/>
-  Unicom is one of the leading companies in the fields of information
-  technology, integrated telecom solutions and supply chain management
-  solutions
+> 🧠 Worked with multiple teams across Yemen and remotely, contributing to full projects from planning to deployment.  
+> Here's a summary of my professional journey:
 
-- Full Stack Developer <br/>
-  Meem Graphics <br/>
-  06/2022 - 10/2022 <br/>
-  A Yemeni company seeks to pioneer e-marketing andcreativity in the
-  graphics design and content industry
+- **Full Stack Developer – NQ7 Group**  
+  *10/2022 – 02/2024*  
+  Developed web apps and mobile-ready platforms for individuals, companies, and government agencies.
 
-- Front End Developer Remotely <br/>
-  Nerdo Yemen<br/>
-  05/2021 - 06/2023<br/>
-  Nerdo is a young experts company that provides advanced Information
-  Technology and Multimedia Services
+- **Senior Front-End Developer – Unicom Group**  
+  *11/2022 – 02/2023*  
+  Delivered front-end solutions for IT, telecom, and supply chain management platforms.
 
-- React Developer<br/>
-  Blackgem Company<br/>
-  11/2021 - 09/2022<br/>
-  BlackGem established in 2018, continue to offer technical services such
-  as websites, applications, and software
+- **Full Stack Developer – Meem Graphics**  
+  *06/2022 – 10/2022*  
+  Led web development and design integration in a creative e-marketing environment.
+
+- **Front-End Developer (Remote) – Nerdo Yemen**  
+  *05/2021 – 06/2023*  
+  Built and maintained dynamic interfaces for IT and multimedia services.
+
+- **React Developer – Blackgem Company**  
+  *11/2021 – 09/2022*  
+  Contributed to multiple software products, web apps, and dynamic content systems.
 
 # 🏫 Education:
 
-- Bachelor's degree in Information Technology<br/>
-  The National University of Yemen <br/>
-  Grade : Very Good with honors <br/>
-  From : 10/2017 to : 09/2021
+- **Bachelor’s in Information Technology** – National University of Yemen  
+  *10/2017 – 09/2021* — Grade: Very Good with honors
 
-- Intermediate Diploma in English Language<br/>
-  Mali Institute<br/>
-  Grade : Very Good <br/>
-  From : 01/2016 to : 08/2016
+- **Intermediate Diploma in English Language** – Mali Institute  
+  *01/2016 – 08/2016* — Grade: Very Good
 
 # 📊 GitHub Stats:
 
