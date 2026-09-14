@@ -1,121 +1,123 @@
-<h1 align="center">Hola 👋,<br/> I'm Anas Naser</h1>
+<h1 align="center">Anas Naser</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasCodex&label=Profile%20views&color=0e75b6&style=flat" alt="AnasCodex" />
-
-<!-- [![](https://visitcount.itsvg.in/api?id=AnasCodex&icon=4&color=0)](https://visitcount.itsvg.in) -->
+<p align="center">
+  <strong>Senior Web &amp; E-Commerce Developer</strong><br>
+  Riyadh, Saudi Arabia
 </p>
 
-# 💫 About Me:
+<p align="center">
+  <a href="mailto:anas.coding404@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/anascodex">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/AnasCodex">GitHub</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Selected work</a>
+</p>
 
-I'm a **Front-End Developer** with over **4 years of experience** in building fast, responsive, and scalable web applications. I specialize in working with **React.js**, **Next.js**, **JavaScript**, and modern frameworks like **Tailwind CSS**, crafting clean interfaces and seamless user experiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-153746?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/React-153746?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-153746?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/E--Commerce-1B5962?style=flat-square" alt="E-Commerce">
+</p>
 
-Throughout my career, I’ve collaborated with design and backend teams to deliver projects across various sectors including e-commerce, business platforms, and instant messaging applications.
+---
 
-I'm passionate about writing clean code, solving real-world problems, and continuously learning new technologies to stay ahead in the ever-evolving web development landscape.
+## Websites that connect brands with their customers
 
-🚀 Currently open to freelance opportunities and exciting collaborations.
+I'm **Anas Naser**, a **Senior Web & E-Commerce Developer based in Riyadh, Saudi Arabia**, known online as **AnasCodex**. I bring **7+ years of experience**, including freelance development and projects for Saudi clients, across corporate websites, online stores, and custom web interfaces.
 
+My work combines **WordPress and Elementor**, **React.js and Next.js**, and e-commerce platforms including **Salla and WooCommerce**. I translate business requirements into responsive Arabic and English experiences, with attention to usability, loading speed, technical SEO, and the details that make a website easier to maintain.
 
-# 🌐 Socials:
+**Available for web development roles, freelance projects, and agency collaborations in Riyadh and remotely.**
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anascodex)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anascodex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anascodex)
+## How I can contribute
 
+| Focus | What I deliver |
+| :--- | :--- |
+| **Marketing & creative agencies** | Brand-aligned websites, campaign landing pages, responsive interfaces, and collaboration with designers and marketers. |
+| **Software companies** | React and Next.js interfaces, API integrations, dashboards, and improvements to existing web applications. |
+| **E-commerce businesses** | Store customization, product and category pages, Arabic storefront experiences, and improvements to browsing and checkout flows. |
+| **Ongoing website care** | Performance improvements, technical SEO, troubleshooting, content updates, and hosting/DNS coordination. |
 
-# 💻 Tech Stack:
+<h2 id="selected-work">Selected work</h2>
 
-![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
-![Css 3](https://img.shields.io/badge/Css3-%231572B6.svg?logo=Css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap5-%237952B3.svg?logo=Bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=Sass&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/TailwindCss-%2306b6d4.svg?logo=TailwindCss&logoColor=white)
-![React](https://img.shields.io/badge/React.js-%231877F2.svg?logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=Node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000.svg?logo=Next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23ffffff.svg?logo=three.js&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?logo=NPM&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-%2321759b.svg?logo=Wordpress&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D.svg?logo=MongoDB&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?logo=Material-UI&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=Redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=Express&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%231572B6.svg?logo=Adobe%20Photoshop&logoColor=white)
+**I developed each of the following websites in full.**
 
-# 📜 Licenses & Certifications:
+| Website | Project scope |
+| :--- | :--- |
+| **[Kripton](https://kripton.sa/)** | Complete corporate website development. |
+| **[Motion Lab](https://motionlab.sa/)** | Complete website development for a creative agency. |
+| **[Theqa](https://theqa-technology.sa/)** | Complete company website development. |
+| **[Emad](https://emad-app.sa/)** | Complete development of the platform's informational website. |
 
+## Professional experience
 
-- [HTML – SoloLearn](https://www.sololearn.com/certificates/CT-L7ZIUXKL)
-- [CSS – SoloLearn](https://www.sololearn.com/certificates/CT-T6C3WQFC)
-- [JavaScript – SoloLearn](https://www.sololearn.com/certificates/CT-BUHMDKVK)
-- [Responsive Web Design – SoloLearn](https://www.sololearn.com/certificates/CT-RV66AGCH)
-- [PHP – SoloLearn](https://www.sololearn.com/certificates/CT-GK9PYJNY)
-- [React.js – MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1)
-- [React + Redux – SoloLearn](https://www.sololearn.com/certificates/CT-AHRD4LMH)
-- [Freelancing Basics – MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1788&code=MObdNKCdsB&qrcode=1)
+### Rising Point
+**Web & E-Commerce Developer · Freelance**  
+May 2025 – Present
 
+- Build WordPress websites and customize Salla stores, including product pages, categories, landing pages, forms, and integrations.
+- Improve business and accounting system interfaces, dashboards, and Arabic user flows; troubleshoot issues and maintain active projects.
 
-# 💼 Work Experience:
+### Trust & Build for Information Technology
+**Senior Web & E-Commerce Developer · Freelance**  
+January 2025 – Present
 
-> 🧠 Worked with multiple teams across Yemen and remotely, contributing to full projects from planning to deployment.  
-> Here's a summary of my professional journey:
+- Develop responsive Arabic and English websites and storefronts; customize Elementor layouts and plugins to meet client requirements.
+- Optimize speed, technical SEO, and browsing and shopping experiences, with ongoing technical support and hosting/DNS coordination.
 
-- **Full Stack Developer – ATEQANIA**  
-  *Mar 2025 – Present* (Part-time) · *Remote – China*  
-  ATEQANIA specializes in **website and app development**, branding, UI design, and **digital marketing services**.  
-  My work includes building full-stack solutions using **Next.js**, **React**, and **Laravel**, and delivering optimized performance for clients in Asia and the MENA region.
+### ATEQANIA
+**Senior Web Developer**  
+March 2024 – June 2026
 
-- **Next.js Developer – Jeetroom**  
-  *Apr 2024 – Oct 2024* (Part-time) · *Remote – Saudi Arabia*  
-  Jeetroom is a platform focused on **short-term and last-minute accommodation bookings** across Saudi Arabia.  
-  My role included developing dynamic front-end components using **Next.js**, optimizing booking flows, and ensuring smooth mobile-first experiences.
+- Developed and launched **15+ custom WordPress websites**, with responsive layouts tailored to each brand.
+- Integrated APIs and third-party services, working with designers and marketers to improve performance and user experience.
 
+### Jeetroom
+**Next.js Developer · Project Contract**  
+April 2024 – October 2024
 
-- **Full Stack Developer – NQ7 Group**  
-  *10/2022 – 02/2024*  
-  Developed web apps and mobile-ready platforms for individuals, companies, and government agencies.
+- Developed dynamic web applications with Next.js and integrated APIs and third-party services.
+- Optimized front-end performance and SEO while improving application stability, integrations, and scalability.
 
-- **Senior Front-End Developer – Unicom Group**  
-  *11/2022 – 02/2023*  
-  Delivered front-end solutions for IT, telecom, and supply chain management platforms.
+## Technical toolkit
 
-- **Full Stack Developer – Meem Graphics**  
-  *06/2022 – 10/2022*  
-  Led web development and design integration in a creative e-marketing environment.
+| Area | Technologies & capabilities |
+| :--- | :--- |
+| **Front-end development** | React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
+| **CMS & e-commerce** | WordPress, Elementor, Salla, WooCommerce, Shopify |
+| **Back-end & data** | Node.js, Express, REST APIs, MySQL, MongoDB, Firebase |
+| **Development workflow** | Git, GitHub, responsive design, API integration, debugging |
+| **Website optimization** | Technical SEO, web performance, Arabic/English interfaces, hosting and DNS support |
 
-- **Front-End Developer (Remote) – Nerdo Yemen**  
-  *05/2021 – 06/2023*  
-  Built and maintained dynamic interfaces for IT and multimedia services.
+### AI-assisted workflow
 
-- **React Developer – Blackgem Company**  
-  *11/2021 – 09/2022*  
-  Contributed to multiple software products, web apps, and dynamic content systems.
+I use AI tools to support coding, debug issues, accelerate development, and generate images and banners when additional visual assets are needed for a project.
 
-# 🏫 Education:
+## Education & learning
 
-- **Bachelor’s in Information Technology** – National University of Yemen  
-  *10/2017 – 09/2021* — Grade: Very Good with honors
+**Bachelor of Information Technology**  
+The National University of Yemen · Taiz, Yemen · 2021
 
-- **Intermediate Diploma in English Language** – Mali Institute  
-  *01/2016 – 08/2016* — Grade: Very Good
+Selected courses and certificates:
 
-# 📊 GitHub Stats:
+- [React.js — MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1)
+- [React + Redux — SoloLearn](https://www.sololearn.com/certificates/CT-AHRD4LMH)
+- [Responsive Web Design — SoloLearn](https://www.sololearn.com/certificates/CT-RV66AGCH)
+- [JavaScript — SoloLearn](https://www.sololearn.com/certificates/CT-BUHMDKVK)
 
-![](https://github-readme-stats.vercel.app/api?username=AnasCodex&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnasCodex&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCodex&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+**Languages:** Arabic — Native · English — Professional working proficiency
 
-# 🔝 Top Contributed Repo
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=AnasCodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## Let's discuss your website or next hire
 
-# ✍️ Random Dev Quote
+For a development role, a new website, or improvements to an existing store, get in touch with a short description of what you need.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+| Contact | Details |
+| :--- | :--- |
+| **Email** | [anas.coding404@gmail.com](mailto:anas.coding404@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/anascodex](https://www.linkedin.com/in/anascodex) |
+| **GitHub** | [github.com/AnasCodex](https://github.com/AnasCodex) |
+| **Saudi phone** | +966 57 398 4049 |
+| **Yemen phone** | +967 730 110 440 |
+| **Location** | Riyadh, Saudi Arabia |
