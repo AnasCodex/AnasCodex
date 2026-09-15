@@ -118,6 +118,6 @@ For a development role, a new website, or improvements to an existing store, get
 | **Email** | [anas.coding404@gmail.com](mailto:anas.coding404@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/anascodex](https://www.linkedin.com/in/anascodex) |
 | **GitHub** | [github.com/AnasCodex](https://github.com/AnasCodex) |
-| **Saudi phone** | +966 57 398 4049 |
+| **Saudi phone** | +966 57 398 4094 |
 | **Yemen phone** | +967 730 110 440 |
 | **Location** | Riyadh, Saudi Arabia |
