@@ -1,123 +1,126 @@
-<h1 align="center">Anas Naser</h1>
+# Anas Naser
 
-<p align="center">
-  <strong>Senior Web &amp; E-Commerce Developer</strong><br>
-  Riyadh, Saudi Arabia
-</p>
+**Senior Web & E-Commerce Developer**  
+AI-Assisted Development · Technical Team Coordination · UI & Graphic Design  
+Riyadh, Saudi Arabia
 
-<p align="center">
-  <a href="mailto:anas.coding404@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/anascodex">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/AnasCodex">GitHub</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected work</a>
-</p>
+[Portfolio](https://anas-codex.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anascodex/) · [Email](mailto:anas.coding404@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-153746?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/React-153746?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-153746?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/E--Commerce-1B5962?style=flat-square" alt="E-Commerce">
-</p>
+## About
 
----
+I build responsive Arabic and English websites, web interfaces, and digital storefronts. My 5+ years of experience include company roles and freelance engagements, delivering work with React, Next.js, WordPress, Elementor, Salla, and WooCommerce.
 
-## Websites that connect brands with their customers
+At **ATEQANIA**, I developed and launched **15+ custom WordPress websites**. At **NQ7GROUP**, I led technical team coordination, allocated tasks across front-end and back-end developers and the Figma design contributor, and coordinated design handoffs and integration.
 
-I'm **Anas Naser**, a **Senior Web & E-Commerce Developer based in Riyadh, Saudi Arabia**, known online as **AnasCodex**. I bring **7+ years of experience**, including freelance development and projects for Saudi clients, across corporate websites, online stores, and custom web interfaces.
+**Currently not employed by or engaged with any organization; available immediately for a new role.** Interested in web development, AI-assisted software delivery, and technical team coordination.
 
-My work combines **WordPress and Elementor**, **React.js and Next.js**, and e-commerce platforms including **Salla and WooCommerce**. I translate business requirements into responsive Arabic and English experiences, with attention to usability, loading speed, technical SEO, and the details that make a website easier to maintain.
+## AI-assisted development and design
 
-**Available for web development roles, freelance projects, and agency collaborations in Riyadh and remotely.**
+- **Claude and ChatGPT:** coding assistance, debugging, prototyping, Vibe Coding, and visual content creation.
+- **Practical example:** my [personal portfolio](https://anas-codex.vercel.app/), developed with AI assistance.
+- **Canva and Adobe Photoshop:** graphic design, website banners, and supporting visual assets.
+- **Interface delivery:** responsive Arabic/English experiences, technical SEO, performance improvements, and front-end/back-end integration.
 
-## How I can contribute
+## Technical skills
 
-| Focus | What I deliver |
-| :--- | :--- |
-| **Marketing & creative agencies** | Brand-aligned websites, campaign landing pages, responsive interfaces, and collaboration with designers and marketers. |
-| **Software companies** | React and Next.js interfaces, API integrations, dashboards, and improvements to existing web applications. |
-| **E-commerce businesses** | Store customization, product and category pages, Arabic storefront experiences, and improvements to browsing and checkout flows. |
-| **Ongoing website care** | Performance improvements, technical SEO, troubleshooting, content updates, and hosting/DNS coordination. |
+- **Front-End:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux
+- **CMS & E-Commerce:** WordPress, Elementor, Salla, WooCommerce, Shopify
+- **Back-End & Tools:** Node.js, Express, REST APIs, MySQL, MongoDB, Git, GitHub
+- **AI & Design:** Claude, ChatGPT, Vibe Coding, AI-assisted coding and debugging, Canva, Adobe Photoshop, Figma coordination
+- **Delivery:** Task allocation, front-end/back-end integration, responsive design, technical SEO, web performance, hosting and DNS support
 
-<h2 id="selected-work">Selected work</h2>
+## Selected work
 
-**I developed each of the following websites in full.**
+I completed website development for the following projects:
 
-| Website | Project scope |
-| :--- | :--- |
-| **[Kripton](https://kripton.sa/)** | Complete corporate website development. |
-| **[Motion Lab](https://motionlab.sa/)** | Complete website development for a creative agency. |
-| **[Theqa](https://theqa-technology.sa/)** | Complete company website development. |
-| **[Emad](https://emad-app.sa/)** | Complete development of the platform's informational website. |
+- **[Kripton](https://kripton.sa/)** - Corporate website.
+- **[Motion Lab](https://motionlab.sa/)** - Creative agency website.
+- **[Theqa](https://theqa-technology.sa/)** - Company website.
+- **[Emad](https://emad-app.sa/)** - Platform informational website.
 
 ## Professional experience
 
-### Rising Point
-**Web & E-Commerce Developer · Freelance**  
-May 2025 – Present
-
-- Build WordPress websites and customize Salla stores, including product pages, categories, landing pages, forms, and integrations.
-- Improve business and accounting system interfaces, dashboards, and Arabic user flows; troubleshoot issues and maintain active projects.
+Freelance and part-time engagements overlapped with some company roles.
 
 ### Trust & Build for Information Technology
-**Senior Web & E-Commerce Developer · Freelance**  
-January 2025 – Present
 
-- Develop responsive Arabic and English websites and storefronts; customize Elementor layouts and plugins to meet client requirements.
-- Optimize speed, technical SEO, and browsing and shopping experiences, with ongoing technical support and hosting/DNS coordination.
+**Web Developer**  
+Aug 2024 - Oct 2026 | Freelance | Riyadh, Saudi Arabia | Remote
+
+- Developed responsive Arabic and English websites and storefronts, customizing WordPress and Elementor layouts and plugins to meet client requirements.
+- Improved page speed, technical SEO, and browsing and shopping flows; provided technical support and coordinated hosting and DNS updates.
+
+### Rising Point
+
+**Web & E-Commerce Developer**  
+May 2025 - Aug 2026 | Freelance | Riyadh, Saudi Arabia | Remote
+
+- Developed WordPress websites and customized Salla storefronts, including product and category pages, landing pages, forms, and integrations.
+- Improved business and accounting system interfaces, dashboards, and Arabic user flows; troubleshot issues and maintained existing projects.
 
 ### ATEQANIA
-**Senior Web Developer**  
-March 2024 – June 2026
 
-- Developed and launched **15+ custom WordPress websites**, with responsive layouts tailored to each brand.
-- Integrated APIs and third-party services, working with designers and marketers to improve performance and user experience.
+**Senior Web Developer**  
+Mar 2024 - Jun 2026 | Remote
+
+- Developed and launched 15+ custom WordPress websites with responsive layouts tailored to each brand.
+- Integrated APIs and third-party services and collaborated with designers and marketers to improve website performance and user experience.
 
 ### Jeetroom
-**Next.js Developer · Project Contract**  
-April 2024 – October 2024
+
+**Next.js Developer**  
+Apr 2024 - Oct 2024 | Part-time | Saudi Arabia | Remote
 
 - Developed dynamic web applications with Next.js and integrated APIs and third-party services.
-- Optimized front-end performance and SEO while improving application stability, integrations, and scalability.
+- Improved front-end performance, technical SEO, and the stability of application functionality and integrations.
 
-## Technical toolkit
+### NQ7GROUP
 
-| Area | Technologies & capabilities |
-| :--- | :--- |
-| **Front-end development** | React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
-| **CMS & e-commerce** | WordPress, Elementor, Salla, WooCommerce, Shopify |
-| **Back-end & data** | Node.js, Express, REST APIs, MySQL, MongoDB, Firebase |
-| **Development workflow** | Git, GitHub, responsive design, API integration, debugging |
-| **Website optimization** | Technical SEO, web performance, Arabic/English interfaces, hosting and DNS support |
+**Full Stack Developer**  
+Oct 2022 - Feb 2024 | Full-time | Sana’a, Yemen | On-site
 
-### AI-assisted workflow
+- Led technical team coordination, distributing tasks across front-end and back-end developers and the Figma design contributor.
+- Coordinated design-to-development handoffs and front-end/back-end integration; defined web page structure and aligned implementation across contributors.
 
-I use AI tools to support coding, debug issues, accelerate development, and generate images and banners when additional visual assets are needed for a project.
+### NERDO for IT and Multimedia Services
 
-## Education & learning
+**Front End Developer**  
+May 2021 - Jun 2023 | Freelance | Sana’a, Yemen | Remote
+
+- Provided freelance front-end development services in an IT and multimedia services environment.
+
+### Meem Graphics
+
+**Full Stack Developer**  
+Jun 2022 - Oct 2022 | Full-time | Sana’a, Yemen | On-site
+
+- Worked on full-stack web development in a digital marketing and graphic design environment.
+
+### BlackGem Tech
+
+**React Developer**  
+Nov 2021 - Sep 2022 | Full-time | Sana’a, Yemen | On-site
+
+- Developed React-based web interfaces for website and software projects.
+
+## Education and learning
 
 **Bachelor of Information Technology**  
-The National University of Yemen · Taiz, Yemen · 2021
+The National University of Yemen · 2021
 
 Selected courses and certificates:
 
-- [React.js — MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1)
-- [React + Redux — SoloLearn](https://www.sololearn.com/certificates/CT-AHRD4LMH)
-- [Responsive Web Design — SoloLearn](https://www.sololearn.com/certificates/CT-RV66AGCH)
-- [JavaScript — SoloLearn](https://www.sololearn.com/certificates/CT-BUHMDKVK)
+- [React.js - MaharaTech](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=8jx2ZNAsHJ&qrcode=1)
+- [React + Redux - SoloLearn](https://www.sololearn.com/certificates/CT-AHRD4LMH)
+- [Responsive Web Design - SoloLearn](https://www.sololearn.com/certificates/CT-RV66AGCH)
+- [JavaScript - SoloLearn](https://www.sololearn.com/certificates/CT-BUHMDKVK)
 
-**Languages:** Arabic — Native · English — Professional working proficiency
+**Languages:** Arabic - Native · English - Professional working proficiency
 
----
+## Contact
 
-## Let's discuss your website or next hire
-
-For a development role, a new website, or improvements to an existing store, get in touch with a short description of what you need.
-
-| Contact | Details |
-| :--- | :--- |
-| **Email** | [anas.coding404@gmail.com](mailto:anas.coding404@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/anascodex](https://www.linkedin.com/in/anascodex) |
-| **GitHub** | [github.com/AnasCodex](https://github.com/AnasCodex) |
-| **Saudi phone** | +966 57 398 4094 |
-| **Yemen phone** | +967 730 110 440 |
-| **Location** | Riyadh, Saudi Arabia |
+- **Email:** [anas.coding404@gmail.com](mailto:anas.coding404@gmail.com)
+- **Phone:** +966 57 398 4094
+- **Location:** Riyadh, Saudi Arabia
+- **Portfolio:** [anas-codex.vercel.app](https://anas-codex.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/anascodex](https://www.linkedin.com/in/anascodex/)
