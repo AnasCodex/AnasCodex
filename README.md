@@ -40,56 +40,56 @@ Product information and pricing work. Examples: aleanayih-alfakhira.com/ar, elia
 
 ## Company career path
 
-BlackGem Tech > Meem Graphics > NQ7GROUP > ATEQANIA. BlackGem and Meem were sequential roles. Dates below use years consistently.
+BlackGem Tech > Meem Graphics > NQ7GROUP > ATEQANIA. BlackGem and Meem were sequential roles. Dates use month/year where established; the exact BlackGem departure month is not specified.
 
 ### Company roles
 
 **ATEQANIA | Senior Web Developer**  
-2024 - 2026 | Remote
+Mar 2024 - Jun 2026 | Part-time | Remote
 
 - Developed and launched 15+ custom WordPress websites, adapting page layouts to each client's brand and content requirements.
 - Connected APIs and third-party services and collaborated with designers and marketers on implementation, maintenance and website usability.
 
 **NQ7GROUP | Full Stack Developer**  
-2022 - 2024 | Full-time | Yemen
+Oct 2022 - Feb 2024 | Full-time | Yemen
 
 - Coordinated frontend and backend developers: allocated tasks and followed the integration of their work.
 - Coordinated handoff from the Figma design contributor into development; aligned page structure and frontend/backend implementation.
 
 **Meem Graphics | Full Stack Developer**  
-2022 | Full-time | Yemen
+Jun 2022 - Oct 2022 | Full-time | Yemen
 
 - Worked as a Full Stack Developer on web projects in a digital-services environment.
 - Joined after leaving BlackGem Tech; subsequently moved to NQ7GROUP.
 
 **BlackGem Tech | React Developer**  
-2021 - 2022 | Full-time | Yemen
+Nov 2021 - 2022 | Full-time | Yemen
 
 - Developed React-based web interfaces for website and software projects.
-- First company role; completed before joining Meem Graphics in 2022.
+- Completed this company role before joining Meem Graphics in Jun 2022; departure month not specified.
 
 ### Freelance and part-time projects
 
 **Trust & Build for Information Technology | Web Developer**  
-2024 - 2026 | Freelance | Remote
+Aug 2024 - Oct 2026 | Freelance | Remote
 
 - Built responsive Arabic/English websites and storefronts using WordPress and Elementor, adapting layouts and plugins to client requirements.
 - Handled website maintenance, technical SEO, page-speed work, shopping-flow changes, and hosting/DNS support.
 
 **Rising Point | Web & E-Commerce Developer**  
-2025 - 2026 | Freelance | Remote
+May 2025 - Aug 2026 | Freelance | Remote
 
 - Developed WordPress websites and customized Salla product/category pages, landing pages, forms and integrations.
 - Worked on business/accounting interfaces and dashboards; resolved issues in existing projects and Arabic user flows.
 
 **Jeetroom | Next.js Developer**  
-2024 | Part-time | Remote
+Apr 2024 - Oct 2024 | Part-time | Remote
 
 - Developed Next.js web application interfaces and connected APIs and external services.
 - Worked on frontend functionality, performance, technical SEO and integration stability.
 
 **NERDO for IT and Multimedia Services | Front End Developer**  
-2021 - 2023 | Freelance | Remote
+May 2021 - Jun 2023 | Freelance | Remote
 
 - Delivered freelance frontend development services for web projects alongside company employment.
 
